@@ -1,4 +1,5 @@
-# Copyright 2021 Neuron-AI GitHub Authors. All Rights Reserved.
+"""easyneuron.genetic is a module for creating genetic algorithms and optimizers."""
+# Copyright 2022 Neuron-AI GitHub Authors. All Rights Reserved.
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -12,20 +13,3 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 # ==============================================================================
-
-
-class DimensionsError(Exception):
-    """Raised when wrong dimensions appear in data."""
-
-    ...
-
-
-class UntrainedModelError(Exception):
-    """Raised when model has model.predict() called but has not yet been trained with model.fit()."""
-
-    ...
-
-class EmptyDataError(Exception):
-    """Raised when data is empty."""
-
-    ...
