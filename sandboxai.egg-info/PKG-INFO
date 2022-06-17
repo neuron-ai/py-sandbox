@@ -1,0 +1,23 @@
+Metadata-Version: 2.1
+Name: sandboxai
+Version: 0.0.1
+Summary: sandboxai is the next, easy-to-use and learn machine learning framework.
+Home-page: UNKNOWN
+Author: Neuron-AI
+Author-email: user@example.com
+License: OSI Approved :: Apache Software License
+Keywords: python,neural,networks,AI,ML,machine learning,easy,neuron,sandboxai,sandboxai
+Platform: UNKNOWN
+Classifier: Development Status :: 1 - Planning
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Operating System :: Unix
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Operating System :: Microsoft :: Windows
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+sandboxai is a lightweight machine learning framework that is easy to use and simple to understand.
+
